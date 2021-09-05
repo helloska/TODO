@@ -1,0 +1,48 @@
+.hidden {
+  display: none;
+}
+
+#login-form {
+  padding-top: 20px;
+  text-align: center;
+}
+
+ul {
+  list-style: none;
+}
+
+body {
+  background: url('../img/plant.jpg') center / cover no-repeat;
+  height: 100vh; /*화면에 딱 맞게*/
+}
+
+button {
+  background-color: transparent;
+  cursor: pointer;
+  border: none;
+  border: 1px solid lightgray;
+  border-radius: 15px;
+  padding: 3px 8px;
+  margin: 3px;
+  
+}
+
+.log {
+  background-color: transparent;
+  cursor: pointer;
+  border: none;
+  border: 1px solid lightgray;
+  border-radius: 15px;
+  padding: 3px 8px;
+}
+
+#clock {
+  padding-top: 100px;
+  font-size: 100px;
+  text-align: center;
+  margin:auto;
+}
+
+#quote {
+  text-align: center;
+}
